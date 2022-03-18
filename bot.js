@@ -75,7 +75,7 @@ y2mateV
 } = require('./scraper/y2mate.js')
 const yts = require('yt-search')
 
-if (config.Bot_Token == "TOKEN BOT" || config.Bot_Token == "") return console.log(new Error('ENGLISH\n\nBot token is required, get token in telegram @BotFather and create bot\n if you dont understand, please contact via WhatsApp 6282387804410\n\nINDONESIA\n\n Bot Token Diperlukan token bot, dapatkan token di telegram @BotFather dan buat bot\n jika Anda tidak mengerti, silakan hubungi melalui WhatsApp 6282387804410'))
+if (config.Bot_Token == "5019579779:AAGQbxfvzQ8wL7eXY-0_iGasHPVt-K1O4Ts" || config.Bot_Token == "") return console.log(new Error('ENGLISH\n\nBot token is required, get token in telegram @BotFather and create bot\n if you dont understand, please contact via WhatsApp 6282387804410\n\nINDONESIA\n\n Bot Token Diperlukan token bot, dapatkan token di telegram @BotFather dan buat bot\n jika Anda tidak mengerti, silakan hubungi melalui WhatsApp 6282387804410'))
 console.log(chalk.blue('Connected to token : ')+' '+config.BotToken)
 /*console.log(chalk.cyanBright("################### TOKEN BOT KOSONG ###################\n"))
 }
